@@ -34,7 +34,3 @@ The best-performing model in this project is the **Decision Tree**, which has pe
 - Implement additional machine learning models like **XGBoost** and **Neural Networks**.
 - Integrate real-time data from IoT sensors for dynamic and optimized irrigation management.
 - Enhance feature engineering for better model performance.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
